@@ -106,11 +106,11 @@ Worked with HTML, CSS, JavaScript, React, Node.js, MongoDB, and practical web de
 
 **B.Tech — Computer Science & Engineering**  
 Himachal Pradesh Technical University  
-2026 | CGPA: 8.01
+Completed | CGPA: **8.01**
 
 **Diploma**  
 Government Polytechnic Sundernagar  
-2023 | 75%
+2023 | **75%**
 
 ---
 
