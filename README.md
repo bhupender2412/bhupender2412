@@ -2,9 +2,9 @@
 
 ### Full Stack Developer | MERN Stack | TypeScript | Redis
 
-I'm a Computer Science & Engineering student focused on building practical, reliable, and scalable web applications.
+I'm a **Computer Science & Engineering graduate** focused on building practical, reliable, and scalable web applications.
 
-I primarily work with the **MERN stack** and also use **TypeScript, Redis, BullMQ, Socket.IO, JWT, REST APIs, Vercel, and Render**.
+I primarily work with the **MERN stack** and also use **TypeScript, Redis, BullMQ, Socket.IO, JWT, REST APIs, Redux, Vercel, and Render**.
 
 🌐 **Portfolio:**  
 https://bhupender-portfolio-sage.vercel.app/
@@ -15,7 +15,7 @@ https://bhupender-portfolio-sage.vercel.app/
 
 ### LearnFlow LMS
 
-Full-stack Learning Management System with separate workflows for students, instructors, and administrators.
+Full-stack Learning Management System with dedicated workflows for students, instructors, and administrators.
 
 **Tech:**  
 `React` `Node.js` `Express.js` `MongoDB` `JWT` `Cloudinary`
@@ -43,9 +43,39 @@ https://github.com/bhupender2412/logpulse
 
 ---
 
+### QueueIt
+
+Real-time virtual queue management system that allows users to join queues remotely, receive digital tokens, track their position and ETA, while administrators manage queue operations.
+
+**Tech:**  
+`React` `Node.js` `Express.js` `MongoDB` `Socket.IO` `JWT` `Tailwind CSS`
+
+**Live:**  
+https://queueit-alpha.vercel.app/
+
+**GitHub:**  
+https://github.com/bhupender2412/queueit
+
+---
+
+### BookHaven
+
+Full-stack bookstore application with authentication, book browsing, book details, shopping cart functionality, protected routes, and administrative book management.
+
+**Tech:**  
+`React` `Redux` `Node.js` `Express.js` `MongoDB` `JWT`
+
+**Live:**  
+https://bookhaven-eight.vercel.app/
+
+**GitHub:**  
+https://github.com/bhupender2412/bookhaven
+
+---
+
 ### LeetMetric
 
-LeetCode profile analytics dashboard built using HTML, CSS, and vanilla JavaScript.
+LeetCode profile analytics dashboard built with HTML, CSS, and vanilla JavaScript.
 
 **Tech:**  
 `HTML` `CSS` `JavaScript` `GraphQL` `Vercel Serverless Functions`
@@ -60,7 +90,7 @@ https://github.com/bhupender2412/leetmetric
 
 ### Developer Portfolio
 
-Responsive developer portfolio showcasing my projects, skills, education, experience, and resume.
+Responsive developer portfolio showcasing my projects, technical skills, experience, education, resume, and live demos.
 
 **Tech:**  
 `React` `Vite` `Tailwind CSS` `Formspree`
@@ -76,7 +106,7 @@ https://github.com/bhupender2412/bhupender-portfolio
 ## 🛠️ Technical Skills
 
 **Frontend**  
-`HTML5` `CSS3` `JavaScript` `React.js` `Tailwind CSS` `Bootstrap` `Vite`
+`HTML5` `CSS3` `JavaScript` `React.js` `Redux` `Tailwind CSS` `Bootstrap` `Vite`
 
 **Backend**  
 `Node.js` `Express.js` `REST APIs` `JWT` `Socket.IO`
@@ -97,7 +127,7 @@ https://github.com/bhupender2412/bhupender-portfolio
 **MERN Stack Trainee — Isekai Tech**  
 Worked on practical full-stack applications using React, Node.js, Express.js, and MongoDB.
 
-**Full Stack Development — IIT Jammu**  
+**Full-Stack Development Intern — IIT Jammu**  
 Worked with HTML, CSS, JavaScript, React, Node.js, MongoDB, and practical web development projects.
 
 ---
@@ -106,11 +136,11 @@ Worked with HTML, CSS, JavaScript, React, Node.js, MongoDB, and practical web de
 
 **B.Tech — Computer Science & Engineering**  
 Himachal Pradesh Technical University  
-Completed | CGPA: **8.01**
+Completed 2026 | CGPA: **8.01**
 
-**Diploma**  
+**Diploma in Engineering**  
 Government Polytechnic Sundernagar  
-2023 | **75%**
+Completed 2023 | **75%**
 
 ---
 
